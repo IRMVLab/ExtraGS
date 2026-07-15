@@ -1,0 +1,45 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Local IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+diff_rasterization/diff_rast.egg-info/
+submodules/**/build/
+submodules/**/*.egg-info/
+
+# Experiment outputs
+output/
+logs/
+wandb/
+tensorboard_3d/
+screenshots/
+debugging/
+*.log
+
+# Data and checkpoints
+dataset/
+dataset_test/
+data/
+checkpoints/
+Depth-Anything-V2/checkpoints/
+diffusion/ckpt/**
+diffusion/enhancer_ckpt/**
+!diffusion/ckpt/README.md
+!diffusion/enhancer_ckpt/README.md
+
+# Intermediate generated assets
+guidance/dreambooth*/
+guidance/inpaint_result/
+guidance/temp/
+*.ply
