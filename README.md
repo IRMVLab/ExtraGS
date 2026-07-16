@@ -339,7 +339,7 @@ If you find this project useful, please cite:
 @inproceedings{hsieh2026extrags,
   title     = {ExtraGS: Enhancing Endoscopic View Extrapolation via Diffusion-Guided 3D Gaussian Splatting},
   author    = {Hsieh, Cheng-Tai and Shan, Jiwei and Fang, Han and Hu, Jianshu and Ni, Tao and Han, Lijun and Ban, Yutong and Cheng, Shing Shin and Wang, Hesheng},
-  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  booktitle = {2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year      = {2026}
 }
 ```
